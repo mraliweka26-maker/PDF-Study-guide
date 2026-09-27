@@ -20,3 +20,10 @@ export default defineConfig(() => {
     },
   };
 });
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  base: '/PDF-Study-guide/', // Add this line
+})
