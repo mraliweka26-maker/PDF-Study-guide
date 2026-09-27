@@ -40,3 +40,9 @@
     "typescript": "^7.0.2"
   }
 }
+{
+  "name": "pdf-study-guide",
+  "version": "0.1.0",
+  "homepage": "https://mraliweka26-maker.github.io/PDF-Study-guide",
+  "dependencies": { ... }
+}
